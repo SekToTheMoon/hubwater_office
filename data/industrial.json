@@ -1,0 +1,79 @@
+[
+  {
+    "id": "h1",
+    "name": "Ecotech size 844",
+    "description": "เหมาะสำหรับครัวเรือนขนาดเล็ก",
+    "price": 2500,
+    "image": "/images/industrial/Ecotech size 844.png"
+  },
+  {
+    "id": "h2",
+    "name": "Ecotech size 1054",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Ecotech size 1054.png"
+  },
+  {
+    "id": "h4",
+    "name": "Ecotech size 1465",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Ecotech size 1465.png"
+  },
+  {
+    "id": "h5",
+    "name": "Ecotech size 1665",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Ecotech size 1665.png"
+  },
+  {
+    "id": "h5",
+    "name": "Ecotech size 1665.4",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Ecotech size 1665.4.png"
+  },
+  {
+    "id": "h5",
+    "name": "Ecotech size 3072.4",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Ecotech size 3072.4.png"
+  },
+  {
+    "id": "h5",
+    "name": "Winsorb size 1252 ปาก 2.5",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Winsorb size 1252 ปาก 2.5.png"
+  },
+  {
+    "id": "h5",
+    "name": "ท่อแกนกลาง 1.5* 2 เมตร สำหรับถัง ปาก '4'",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/ท่อแกนกลาง สำหรับถัง ปาก '4'.png"
+  },
+  {
+    "id": "h3",
+    "name": "Manual Valve F56A1",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Manual Valve F56A1.png"
+  },
+  {
+    "id": "h4",
+    "name": "Manual Valve F64A1",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Manual Valve F64A1.png"
+  },
+  {
+    "id": "h5",
+    "name": "Manual Valve N64D1",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/industrial/Manual Valve N64D1.png"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "h1",
+    "name": "Dosing Pump 10.2 L/h",
+    "description": "เหมาะสำหรับครัวเรือนขนาดเล็ก",
+    "price": 2500,
+    "image": "/images/pumps-valves/Dosing Pump.png"
+  },
+  {
+    "id": "h2",
+    "name": "Aotomatic Pump Control Type:HY-6",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/pumps-valves/automatic_pump.png"
+  },
+  {
+    "id": "h5",
+    "name": "Diaphragm Pump 150 gpd",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/pumps-valves/Diaphragm Pump 150 gpd.png"
+  },
+  {
+    "id": "h5",
+    "name": "สาย PE ขาว 100 เมตร",
+    "description": "น้ำสะอาด 99.9%",
+    "price": 7500,
+    "image": "/images/pumps-valves/สาย PE ขาว 100 เมตร.png"
+  }
+]

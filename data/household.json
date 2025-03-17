@@ -1,0 +1,143 @@
+[
+  {
+    "id": "h5",
+    "name": "Housing'20' เกลียว 4 หุน",
+    "description": "กระบอก Housing ขนาด 20 นิ้ว 4 หุน สีน้ำเงินทึบ สำหรับไส้กรองยาว 20 นิ้ว ข้อต่อเกลียวในขนาด 4 หุน (1/2 นิ้ว)",
+    "price": 7500,
+    "image": "/images/household/Housing'20' เกลียว 4 หุน.png"
+  },
+  {
+    "id": "h5",
+    "name": "Housing BIG BLUE '20'",
+    "description": "Housing BIG BLUE ขนาด 20 นิ้ว กระบอกกรองบิ๊กบลู เกรดที่ดีที่สุด ",
+    "price": 7500,
+    "image": "/images/household/Housing BIG BLUE '20'.png"
+  },
+  {
+    "id": "h1",
+    "name": "ไส้กรองคาร์บอนบล๊อคBB 10 นิ้ว",
+    "description": "ไส้กรองน้ำ Carbon Big Blue ขนาด ความยาว 10 นิ้ว เส้นผ่านศูนย์กลาง 4.5 นิ้ว ความละเอียด 5 ไมครอน",
+    "price": 2500,
+    "image": "/images/household/ไส้กรองคาร์บอนบล๊อคBB 10 นิ้ว.png"
+  },
+  {
+    "id": "h1",
+    "name": "Sediment (PP)'10'",
+    "description": "ไส้กรองน้ำ PP (Sediment) ยาว 10 นิ้ว ความละเอียด 5 ไมครอน กรองตะกอน สารแขวนลอยขนาดเล็ก",
+    "price": 2500,
+    "image": "/images/household/Sediment (PP)'10'.png"
+  },
+  {
+    "id": "h1",
+    "name": "Sediment (PP) Bigblue'10' 5 micron",
+    "description": "ไส้กรองน้ำ PP (Sediment) Big Blue ขนาด 4.5 นิ้ว ยาว 10 นิ้ว ความละเอียด 5 ไมครอน กรองตะกอน สารแขวนลอยขนาดเล็ก",
+    "price": 2500,
+    "image": "/images/household/Sediment (PP) Bigblue'10' 5 micron.png"
+  },
+  {
+    "id": "h1",
+    "name": "Sediment (PP) Bigblue'20' 5 micron",
+    "description": "ไส้กรองน้ำ PP (Sediment) Big Blue ขนาด 4.5 นิ้ว ยาว 20 นิ้ว ความละเอียด 5 ไมครอน กรองตะกอน สารแขวนลอยขนาดเล็ก",
+    "price": 2500,
+    "image": "/images/household/Sediment (PP) Bigblue'20' 5 micron.png"
+  },
+  {
+    "id": "h1",
+    "name": "ไส้ Carbon GAC 10",
+    "description": "ทำการดูดจับสารเคมี กลิ่น สี คลอรีน",
+    "price": 2500,
+    "image": "/images/household/ไส้ Carbon GAC 10.png"
+  },
+  {
+    "id": "h1",
+    "name": "Pre Carbon T33 '11' 5 GPM",
+    "description": "11 นิ้ว T33เครื่องกรองน้ำไส้กรองน้ำมะพร้าวแบบอินไลน์ GAC 5 GPM",
+    "price": 2500,
+    "image": "/images/household/Pre Carbon T33 '11' 5 GPM.png"
+  },
+  {
+    "id": "h1",
+    "name": "Post Carbon T33 '10' 0.5 GPM",
+    "description": "10 นิ้ว T33เครื่องกรองน้ำไส้กรองน้ำมะพร้าวแบบอินไลน์อัตราการไหลสูงสุด 0.5GPM",
+    "price": 2500,
+    "image": "/images/household/Post Carbon T33 '10' 0.5 GPM.png"
+  },
+  {
+    "id": "h5",
+    "name": "Sedieme PP line Filter",
+    "description": "Polypropylene (PP) / พอลิโพรไพลีน ถักทอแน่นหนา มีความละเอียดสูง ขนาด 10 นิ้ว กว้างประมาณ 2 นิ้ว กำจัด ฝุ่นผง กรวด ทราย ตะกอนดิน",
+    "price": 7500,
+    "image": "/images/household/Sedieme PP line Filter.png"
+  },
+  {
+    "id": "h5",
+    "name": "Sedieme Resin lnline Filter",
+    "description": "Resin / พอลิโพรไพลีน ถักทอแน่นหนา มีความละเอียดสูง ขนาด 10 นิ้ว กว้างประมาณ 2 นิ้ว กำจัด ช่วยกำจัดหินปูนที่ผสมอยู่ในน้ำ ช่วยกรองเอาความกระด้างของน้ำออกมา",
+    "price": 7500,
+    "image": "/images/household/Sedieme Resin lnline Filter.png"
+  },
+  {
+    "id": "h5",
+    "name": "Sedieme Alkaline lnline Filter",
+    "description": "ไส้กรองหินแร่ธรรมชาติเซรามิก เพิ่มความเป็นอัลคาไลน์และค่า pH และคลดค่าโออาร์พีลง ทำให้น้ำสามารถดูดซึมเข้าสู่ร่างกายได้ดียิ่ง",
+    "price": 7500,
+    "image": "/images/household/Sedieme Alkaline lnline Filter.png"
+  },
+  {
+    "id": "h5",
+    "name": "Inline Carbon block filter",
+    "description": "ไส้กรอง Carbon กรองดักจับกลิ่น สี และคลอรีน และบรรจุอยู่ในแคปซูล (Inline)",
+    "price": 7500,
+    "image": "/images/household/Inline Carbon block filter.png"
+  },
+  {
+    "id": "h5",
+    "name": "Microtech Membrane 75 gpd",
+    "description": "ไส้กรองน้ำ Microtech Membrane กำลังผลิต 75 GPD เป็นไส้กรองน้ำ RO Membrane มีความสามารถในการกรองได้ถึง 0.0001 Micron",
+    "price": 7500,
+    "image": "/images/household/Microtech Membrane.png"
+  },
+  {
+    "id": "h5",
+    "name": "Microtech Membrane 100 gpd",
+    "description": "ไส้กรองน้ำ Microtech Membrane กำลังผลิต 100 GPD เป็นไส้กรองน้ำ RO Membrane มีความสามารถในการกรองได้ถึง 0.0001 Micron",
+    "price": 7500,
+    "image": "/images/household/Microtech Membrane.png"
+  },
+  {
+    "id": "h5",
+    "name": "Microtech Membrane 150 gpd",
+    "description": "ไส้กรองน้ำ Microtech Membrane กำลังผลิต 150 GPD เป็นไส้กรองน้ำ RO Membrane มีความสามารถในการกรองได้ถึง 0.0001 Micron",
+    "price": 7500,
+    "image": "/images/household/Microtech Membrane.png"
+  },
+  {
+    "id": "h5",
+    "name": "Microtech Membrane 300 gpd",
+    "description": "ไส้กรองน้ำ Microtech Membrane กำลังผลิต 300 GPD เป็นไส้กรองน้ำ RO Membrane มีความสามารถในการกรองได้ถึง 0.0001 Micron",
+    "price": 7500,
+    "image": "/images/household/Microtech Membrane.png"
+  },
+
+  {
+    "id": "h1",
+    "name": "Vessel Membrane 4040",
+    "description": "สำหรับ ใส่ไส้กรอง Membrane RO แบบ สเตนเลส และ ไฟเบอร์กลาส ขนาด 4 นิ้ว",
+    "price": 2500,
+    "image": "/images/household/Vessel Membrane 4040.png"
+  },
+  {
+    "id": "h2",
+    "name": "Vessel Membrane 8040",
+    "description": "สำหรับ ใส่ไส้กรอง Membrane RO แบบ สเตนเลส และ ไฟเบอร์กลาส ขนาด 8 นิ้ว",
+    "price": 7500,
+    "image": "/images/household/Vessel Membrane 8040.png"
+  },
+  {
+    "id": "h4",
+    "name": "Membrane 4040 SILVERTEC",
+    "description": "ผลิตจากวัสดุ Polyamide (PA) ทนทานต่อสารเคมีและการกัดกร่อนสามารถกรองได้ละเอียดถึง 0.0001 ไมครอน กรองสารละลายต่าง ๆ ได้มากกว่า 98.5% กำจัดสารเคมี เชื้อไวรัส และสิ่งสกปรกต่าง ๆ",
+    "price": 7500,
+    "image": "/images/household/Membrane 4040 SILVERTEC.png"
+  }
+]
