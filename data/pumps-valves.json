@@ -2,29 +2,36 @@
   {
     "id": "h1",
     "name": "Dosing Pump 10.2 L/h",
-    "description": "เหมาะสำหรับครัวเรือนขนาดเล็ก",
+    "description": "ปั๊มจ่ายสารเคมี 10.2 ลิตรต่อชั่วโมง สำหรับดูดจ่าย สารเคมี คลอรีน น้ำยาปรับสภาพน้ำกรดด่าง น้ำยาแอนตี้สเกล",
     "price": 2500,
     "image": "/images/pumps-valves/Dosing Pump.png"
   },
   {
     "id": "h2",
     "name": "Aotomatic Pump Control Type:HY-6",
-    "description": "น้ำสะอาด 99.9%",
+    "description": "หัวออโต้คอนโทรล สวิทซ์อัตโนมัติควบคุมปั้มน้ำ น้ำขาดในระบบ ปั๊มจะหยุดเพื่อป้องกันมอเตอร์ไหม้ สามารถปรับแรงดันให้เหมาะสมตามการใช้งานได้ มีเกจแรงดัน สามารถใช้กับปั๊มแรงดันสูงส่งได้ถึง 30 ม. ",
     "price": 7500,
     "image": "/images/pumps-valves/automatic_pump.png"
   },
   {
     "id": "h5",
     "name": "Diaphragm Pump 150 gpd",
-    "description": "น้ำสะอาด 99.9%",
+    "description": "ปั๊มDiaphragm 150 GPD ทำหน้าที่หลักเป็น R.O. Booster Pump ปั๊มส่งน้ำเข้าไส้กรอง RO Membrane ปั๊มน้ำสามารถให้อัตราการไหลน้ำดีได้ 150 แกลลอนต่อวัน (560 ลิตร)",
     "price": 7500,
     "image": "/images/pumps-valves/Diaphragm Pump 150 gpd.png"
   },
   {
     "id": "h5",
-    "name": "สาย PE ขาว 100 เมตร",
-    "description": "น้ำสะอาด 99.9%",
+    "name": "สาย PE ยาว 100 เมตร",
+    "description": "สายส่งน้ำ PE ทนแรงดันน้ำได้ 8 bar ยาว 100 เมตร",
     "price": 7500,
     "image": "/images/pumps-valves/สาย PE ขาว 100 เมตร.png"
+  },
+  {
+    "id": "h5",
+    "name": "หลอด UV 36 W",
+    "description": "หลอดยูวี ฆ่าเชื้อโรค 36W สำหรับกระบอกยูวี ระบบปิด",
+    "price": 7500,
+    "image": "/images/pumps-valves/หลอด UV 36 W.png"
   }
 ]
