@@ -10,40 +10,24 @@ import { Autoplay, Pagination } from "swiper/modules";
 export default () => {
   const products = [
     {
-      name: "Activated Carbon Ecotech ID 1000",
-      url: "/images/commercial/Activated Carbon Ecotech ID 1000.png",
+      name: "ร้าน Hub Watertech",
+      url: "/images/Achievement/1.jpg",
     },
     {
-      name: "Anthracite Ecotech 40 L",
-      url: "/images/commercial/Anthracite Ecotech 40 L.png",
+      name: "โรงพยาบาลลำปาง",
+      url: "/images/Achievement/2.jpg",
     },
     {
-      name: "Manganese Zeolite Ecotech 25 L",
-      url: "/images/commercial/Manganese Zeolite Ecotech 25 L.png",
+      name: "ชุดกรองน้ำดื่ม 5 ขั้นตอน",
+      url: "/images/Achievement/3.jpg",
     },
     {
-      name: "Ecotech size 844",
-      url: "/images/industrial/Ecotech size 844.png",
+      name: "ชุดกรองน้ำดื่ม RO 400 GPD",
+      url: "/images/Achievement/4.jpg",
     },
     {
-      name: "Ecotech size 1465",
-      url: "/images/industrial/Ecotech size 1465.png",
-    },
-    {
-      name: "Manual Valve F56A1",
-      url: "/images/industrial/Manual Valve F56A1.png",
-    },
-    {
-      name: "Manual Valve F64A1",
-      url: "/images/industrial/Manual Valve F64A1.png",
-    },
-    {
-      name: "Auto Valve F67B1",
-      url: "/images/industrial/Auto Valve F63B1.png",
-    },
-    {
-      name: "Auto Valve F63B1",
-      url: "/images/industrial/Auto Valve F63B1.png",
+      name: "ถัง softener ก่อนเข้าเครื่องกรองน้ำ",
+      url: "/images/Achievement/5.jpg",
     },
   ];
   return (
@@ -66,15 +50,17 @@ export default () => {
     >
       {products.map((product, index) => (
         <SwiperSlide key={index}>
-          <div className="h-64 bg-white rounded flex justify-center items-center gap-2 p-5">
-            <h2 className="text-pretty">{product.name}</h2>
-            <div className="w-1/2 h-full">
+          <div className="h-96 rounded-xl relative">
+            <div className="h-full relative rounded">
               <img
-                className="h-full object-cover aspect-auto"
+                className="h-full object-cover "
                 src={product.url}
                 alt={product.name}
                 loading="lazy"
               />
+            </div>
+            <div className="absolute h-2/12 bottom-0 left-0 w-full bg-black opacity-73 text-center flex items-center justify-center">
+              <h2 className="text-pretty text-white">{product.name}</h2>
             </div>
           </div>
         </SwiperSlide>

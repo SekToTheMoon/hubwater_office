@@ -9,8 +9,8 @@ export default function ProductCard({ name, description, price, image }) {
         />
       </div>
       <div className="p-4">
-        <h3 className="text-lg font-semibold text-gray-800">{name}</h3>
-        <p className="text-gray-600">{description}</p>
+        <h3 className="font-semibold text-gray-800">{name}</h3>
+        <p className="text-gray-600 text-md">{description}</p>
         {/* <p className="text-blue-600 font-bold mt-2">
           {price.toLocaleString()} บาท
         </p> */}

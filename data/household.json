@@ -1,24 +1,52 @@
 [
   {
     "id": "h5",
-    "name": "Housing'20' เกลียว 4 หุน",
-    "description": "กระบอก Housing ขนาด 20 นิ้ว 4 หุน สีน้ำเงินทึบ สำหรับไส้กรองยาว 20 นิ้ว ข้อต่อเกลียวในขนาด 4 หุน (1/2 นิ้ว)",
+    "name": "UF 5 ขั้นตอน Unipure",
+    "description": "เครื่องกรองน้ำระบบ UF (Ultra Filtration) 5 ขั้นตอน",
+    "price": 7500,
+    "image": "/images/household/UF 5 ขั้นตอน.png"
+  },
+  {
+    "id": "h5",
+    "name": "RO 150 GPD aquatek",
+    "description": "เครื่องกรองน้ำระบบ RO สะอาดไร้สารตกค้าง เพื่อผลิตน้ำดื่ม ใช้ทำน้ำแข็งได้ใสสะอาด  เหมาะสำหรับใช้ในครัวเรือน ขนาดครอบครัว 3-4 ท่าน",
+    "price": 7500,
+    "image": "/images/household/RO 150g aqutek.png"
+  },
+  {
+    "id": "h5",
+    "name": "RO 300 GPD Unipure",
+    "description": "เครื่องกรองน้ำ RO สำหรับผู้ที่ต้องการใช้น้ำปริมาณมากกว่าการใช้ตามบ้าน ขนาดครอบครัว 5-8 ท่าน",
+    "price": 7500,
+    "image": "/images/household/Ro 300g unpure.png"
+  },
+  {
+    "id": "h5",
+    "name": "RO 400 GPD Treatton (ตั้งโต๊ะ)",
+    "description": "เครื่องกรองน้ำ RO พร้อมเพิ่มแร่ธาตุที่ร่างกายต้องการ ขนาดครอบครัว 10-20 ท่าน",
+    "price": 7500,
+    "image": "/images/household/ro400_treatton.png"
+  },
+  {
+    "id": "h5",
+    "name": "RO 400 GPD Treatton",
+    "description": "เครื่องกรองน้ำ RO กำลังการผลิตน้ำสูง ขนาดครอบครัว 10-20 ท่าน",
+    "price": 7500,
+    "image": "/images/household/RO 400 Treatton.png"
+  },
+  {
+    "id": "h5",
+    "name": "Housing 10-20 นิ้ว",
+    "description": "กระบอก Housing ขนาด 10-20 นิ้วสีน้ำเงินทึบ สำหรับไส้กรองยาว 10-20 นิ้ว ข้อต่อเกลียวในขนาด 4 หุน (1/2 นิ้ว)",
     "price": 7500,
     "image": "/images/household/Housing'20' เกลียว 4 หุน.png"
   },
   {
     "id": "h5",
-    "name": "Housing BIG BLUE '20'",
-    "description": "Housing BIG BLUE ขนาด 20 นิ้ว กระบอกกรองบิ๊กบลู เกรดที่ดีที่สุด ",
+    "name": "Housing BIG BLUE 10-20 นิ้ว",
+    "description": "Housing BIG BLUE ขนาด 10-20 นิ้ว กระบอกกรองบิ๊กบลู เกรดที่ดีที่สุด ",
     "price": 7500,
     "image": "/images/household/Housing BIG BLUE '20'.png"
-  },
-  {
-    "id": "h1",
-    "name": "ไส้กรองคาร์บอนบล๊อคBB 10 นิ้ว",
-    "description": "ไส้กรองน้ำ Carbon Big Blue ขนาด ความยาว 10 นิ้ว เส้นผ่านศูนย์กลาง 4.5 นิ้ว ความละเอียด 5 ไมครอน",
-    "price": 2500,
-    "image": "/images/household/ไส้กรองคาร์บอนบล๊อคBB 10 นิ้ว.png"
   },
   {
     "id": "h1",
@@ -26,6 +54,13 @@
     "description": "ไส้กรองน้ำ PP (Sediment) ยาว 10 นิ้ว ความละเอียด 5 ไมครอน กรองตะกอน สารแขวนลอยขนาดเล็ก",
     "price": 2500,
     "image": "/images/household/Sediment (PP)'10'.png"
+  },
+  {
+    "id": "h1",
+    "name": "Sediment (PP)'20'",
+    "description": "ไส้กรองน้ำ PP (Sediment) ยาว 20 นิ้ว ความละเอียด 5 ไมครอน กรองตะกอน สารแขวนลอยขนาดเล็ก",
+    "price": 2500,
+    "image": "/images/household/Sediment (PP)'20'.png"
   },
   {
     "id": "h1",
@@ -40,6 +75,41 @@
     "description": "ไส้กรองน้ำ PP (Sediment) Big Blue ขนาด 4.5 นิ้ว ยาว 20 นิ้ว ความละเอียด 5 ไมครอน กรองตะกอน สารแขวนลอยขนาดเล็ก",
     "price": 2500,
     "image": "/images/household/Sediment (PP) Bigblue'20' 5 micron.png"
+  },
+  {
+    "id": "h1",
+    "name": "ไส้กรองคาร์บอนบล๊อค 10 นิ้ว",
+    "description": "ไส้กรองน้ำ Carbon ขนาด ความยาว 10 นิ้ว เส้นผ่านศูนย์กลาง 4.5 นิ้ว ความละเอียด 5 ไมครอน",
+    "price": 2500,
+    "image": "/images/household/ไส้กรองคาร์บอนบล๊อค 10 นิ้ว.png"
+  },
+  {
+    "id": "h1",
+    "name": "ไส้กรองคาร์บอนบล๊อคBB 10 นิ้ว",
+    "description": "ไส้กรองน้ำ Carbon Big Blue ขนาด ความยาว 10 นิ้ว เส้นผ่านศูนย์กลาง 4.5 นิ้ว ความละเอียด 5 ไมครอน",
+    "price": 2500,
+    "image": "/images/household/ไส้กรองคาร์บอนบล๊อคBB 10 นิ้ว.png"
+  },
+  {
+    "id": "h1",
+    "name": "ไส้กรองคาร์บอนบล๊อค 20 นิ้ว",
+    "description": "ไส้กรองน้ำ Carbon Big Blue ขนาด ความยาว 20 นิ้ว เส้นผ่านศูนย์กลาง 4.5 นิ้ว ความละเอียด 5 ไมครอน",
+    "price": 2500,
+    "image": "/images/household/ไส้กรองคาร์บอนบล๊อค 20 นิ้ว.png"
+  },
+  {
+    "id": "h1",
+    "name": "ไส้กรองเรซิ่น 10 นิ้ว",
+    "description": "ไส้กรองน้ำ Resin ขนาด ความยาว 10 นิ้ว เส้นผ่านศูนย์กลาง 4.5 นิ้ว ความละเอียด 5 ไมครอน",
+    "price": 2500,
+    "image": "/images/household/ไส้กรองเรซิ่น 10 นิ้ว.png"
+  },
+  {
+    "id": "h1",
+    "name": "ไส้กรองเรซิ่น 20 นิ้ว",
+    "description": "ไส้กรองน้ำ Resin ขนาด ความยาว 20 นิ้ว เส้นผ่านศูนย์กลาง 4.5 นิ้ว ความละเอียด 5 ไมครอน",
+    "price": 2500,
+    "image": "/images/household/ไส้กรองเรซิ่น 20 นิ้ว.png"
   },
   {
     "id": "h1",
@@ -117,27 +187,5 @@
     "description": "ไส้กรองน้ำ Microtech Membrane กำลังผลิต 300 GPD เป็นไส้กรองน้ำ RO Membrane มีความสามารถในการกรองได้ถึง 0.0001 Micron",
     "price": 7500,
     "image": "/images/household/Microtech Membrane.png"
-  },
-
-  {
-    "id": "h1",
-    "name": "Vessel Membrane 4040",
-    "description": "สำหรับ ใส่ไส้กรอง Membrane RO แบบ สเตนเลส และ ไฟเบอร์กลาส ขนาด 4 นิ้ว",
-    "price": 2500,
-    "image": "/images/household/Vessel Membrane 4040.png"
-  },
-  {
-    "id": "h2",
-    "name": "Vessel Membrane 8040",
-    "description": "สำหรับ ใส่ไส้กรอง Membrane RO แบบ สเตนเลส และ ไฟเบอร์กลาส ขนาด 8 นิ้ว",
-    "price": 7500,
-    "image": "/images/household/Vessel Membrane 8040.png"
-  },
-  {
-    "id": "h4",
-    "name": "Membrane 4040 SILVERTEC",
-    "description": "ผลิตจากวัสดุ Polyamide (PA) ทนทานต่อสารเคมีและการกัดกร่อนสามารถกรองได้ละเอียดถึง 0.0001 ไมครอน กรองสารละลายต่าง ๆ ได้มากกว่า 98.5% กำจัดสารเคมี เชื้อไวรัส และสิ่งสกปรกต่าง ๆ",
-    "price": 7500,
-    "image": "/images/household/Membrane 4040 SILVERTEC.png"
   }
 ]

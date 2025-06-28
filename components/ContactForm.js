@@ -50,13 +50,13 @@ const ContactForm = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-4">
+    <form onSubmit={handleSubmit} className="space-y-4 py-4">
       <input
         type="text"
         placeholder="ชื่อ - นามสกุล"
         value={formData.name}
         onChange={(e) => setFormData({ ...formData, name: e.target.value })}
-        className="border p-2 w-full"
+        className="border-2 border-gray-700 p-2 w-full rounded-lg"
         required
       />
       <input
@@ -64,18 +64,18 @@ const ContactForm = () => {
         placeholder="อีเมล"
         value={formData.email}
         onChange={(e) => setFormData({ ...formData, email: e.target.value })}
-        className="border p-2 w-full"
+        className="border-2 border-gray-700 p-2 w-full rounded-lg"
         required
       />
       <textarea
         placeholder="ข้อความ"
         value={formData.message}
         onChange={(e) => setFormData({ ...formData, message: e.target.value })}
-        className="border p-2 w-full"
+        className="border-2 border-gray-700 p-2 w-full rounded-lg"
         required
       />
       <button type="submit" className="bg-blue-500 text-white p-2 rounded">
-        ส่งข้อมควม
+        ส่งข้อความ
       </button>
     </form>
   );

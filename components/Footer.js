@@ -1,32 +1,61 @@
 export default function Footer() {
   return (
-    <footer className="bg-white border-t border-gray-200 py-6">
+    <footer className="bg-white border-t border-gray-200 py-6 text-base container mx-auto px-4 sm:px-6 lg:px-12">
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center md:text-left">
           {/* ส่วนที่ 1: ชื่อร้านและคำอธิบาย */}
           <div>
-            <h2 className="text-lg font-semibold text-gray-800 mb-2">
+            <h2 className="text-xl font-semibold text-gray-800 mb-2">
               ร้านเครื่องกรองน้ำ
             </h2>
             <p className="text-gray-600 text-sm">
-              จำหน่ายเครื่องกรองน้ำคุณภาพสูงสำหรับครัวเรือน เชิงพาณิชย์
-              และอุตสาหกรรม
+              เราเป็นผู้จำหน่ายเครื่องกรองน้ำคุณภาพสูง
+              ครอบคลุมการใช้งานทั้งในระดับครัวเรือน ร้านอาหาร
+              ธุรกิจเชิงพา444ณิชย์ รวมถึงโรงงานอุตสาหกรรม
+              พร้อมให้คำปรึกษาและบริการติดตั้งอย่างมืออาชีพ
+              เพื่อคุณภาพน้ำที่สะอาด ปลอดภัย และเหมาะสมกับทุกการใช้งาน
             </p>
           </div>
 
           {/* ส่วนที่ 2: ลิงก์หน้าเว็บ */}
           <div>
-            <h3 className="text-md font-semibold text-gray-800 mb-2">เมนู</h3>
+            <h3 className="text-lg font-semibold text-gray-800 mb-2">เมนู</h3>
             <ul className="space-y-2 text-gray-600 text-sm">
               <li>
                 <a href="/" className="hover:text-blue-600 transition">
                   หน้าแรก
                 </a>
               </li>
-
               <li>
-                <a href="/contact" className="hover:text-blue-600 transition">
-                  ติดต่อเรา
+                <a
+                  href="/products/household"
+                  className="hover:text-blue-600 transition"
+                >
+                  เครื่องกรองน้ำบ้าน และ ไส้กรอง
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/products/commercial"
+                  className="hover:text-blue-600 transition"
+                >
+                  สารกรอง
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/products/industrial"
+                  className="hover:text-blue-600 transition"
+                >
+                  อุปกรณ์กรองน้ำอุตสาหกรรม
+                </a>
+              </li>
+              <li>
+                <a
+                  href="/products/pumps-valves"
+                  className="hover:text-blue-600 transition"
+                >
+                  ปั๊ม และ อื่นๆ
                 </a>
               </li>
             </ul>
@@ -63,6 +92,16 @@ export default function Footer() {
                   className="text-blue-600 hover:underline"
                 >
                   Hub WaterTech สินค้าเครื่องกรองน้ำ อะไหล่ทุกประเภท
+                </a>
+              </li>
+              <li>
+                ที่อยู่:
+                <a
+                  href="https://maps.app.goo.gl/hN8wJvTKDSmzsx6d9"
+                  className="text-blue-600"
+                >
+                  282,284 ถนนสวนสยาม แขวงคันนายาว เขตคันนายาว กรุงเทพมหานคร
+                  10230
                 </a>
               </li>
             </ul>

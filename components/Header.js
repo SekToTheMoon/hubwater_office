@@ -1,6 +1,6 @@
 export default function Header() {
   return (
-    <header className="bg-white shadow-md sticky top-0 z-10">
+    <header className="bg-white shadow-md sticky top-0 z-10 container mx-auto px-4 sm:px-6 lg:px-12">
       <nav className="container mx-auto px-4 py-4 flex justify-between items-center">
         <a href="/">
           <img className="h-6 aspect-auto" src="/images/logo/logo.png"></img>

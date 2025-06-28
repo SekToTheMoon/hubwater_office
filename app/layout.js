@@ -17,10 +17,12 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="th">
-      <body className={`${Thai.className} min-h-screen flex flex-col `}>
+      <body
+        className={`${Thai.className} min-h-screen flex flex-col text-base`}
+      >
         <Header />
         <main className=" bg-gray-50 ">
-          <div className="flex-grow container mx-auto px-4 py-8">
+          <div className=" flex-grow mx-auto px-6 sm:px-12 lg:px-22 py-8">
             {children}
           </div>
         </main>
