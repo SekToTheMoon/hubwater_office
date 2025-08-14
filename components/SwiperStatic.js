@@ -12,23 +12,23 @@ export default () => {
   const menuItems = [
     {
       link: "",
-      img: "/images/static/store.jpg",
+      img: "/images/static/store.webp",
     },
     {
       link: "",
-      img: "/images/static/2.jpg",
+      img: "/images/static/2.webp",
     },
     {
       link: "",
-      img: "/images/static/1.jpg",
+      img: "/images/static/1.webp",
     },
     {
       link: "",
-      img: "/images/static/resin.jpg",
+      img: "/images/static/resin.webp",
     },
     {
       link: "",
-      img: "/images/static/resin1.jpg",
+      img: "/images/static/resin1.webp",
     },
   ];
 

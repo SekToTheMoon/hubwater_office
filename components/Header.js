@@ -124,7 +124,8 @@ export default function Header() {
         <Link className="mr-8" href="/">
           <img
             className="h-3 aspect-auto"
-            src="/images/logo/hubwatertechLogo.png"
+            src="/images/logo/hubwatertechLogo.webp"
+            alt="Hubwatertech"
           ></img>
         </Link>
 

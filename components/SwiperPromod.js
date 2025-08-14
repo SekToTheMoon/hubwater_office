@@ -16,7 +16,7 @@ export default () => {
     // },
     {
       link: "/products/frp/Image_Frp_Tank",
-      img: "/images/promode/IMAGE.png",
+      img: "/images/promode/IMAGE.webp",
     },
     {
       link: "/products/resin/Extrapure_Resin",
