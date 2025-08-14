@@ -1,17 +1,17 @@
 export default function Footer() {
   return (
-    <footer className="bg-white border-t border-gray-200 py-6 text-base container mx-auto px-4 sm:px-6 lg:px-12">
-      <div className="container mx-auto px-4">
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-center md:text-left">
+    <footer className="bg-gray-100  py-6 text-base  px-6 sm:px-12 lg:px-34">
+      <div className=" ">
+        <div className=" grid grid-cols-1 md:grid-cols-3 gap-8 text-center md:text-left">
           {/* ส่วนที่ 1: ชื่อร้านและคำอธิบาย */}
           <div>
-            <h2 className="text-xl font-semibold text-gray-800 mb-2">
-              ร้านเครื่องกรองน้ำ
+            <h2 className="text-lg font-semibold text-gray-800 mb-2">
+              ร้าน ฮับวอเตอร์เทค
             </h2>
-            <p className="text-gray-600 text-sm">
+            <p className="text-gray-600 text-[10px] text-balance">
               เราเป็นผู้จำหน่ายเครื่องกรองน้ำคุณภาพสูง
-              ครอบคลุมการใช้งานทั้งในระดับครัวเรือน ร้านอาหาร
-              ธุรกิจเชิงพา444ณิชย์ รวมถึงโรงงานอุตสาหกรรม
+              ครอบคลุมการใช้งานทั้งในระดับครัวเรือน ร้านอาหาร ธุรกิจเชิงพาณิชย์
+              รวมถึงโรงงานอุตสาหกรรม
               พร้อมให้คำปรึกษาและบริการติดตั้งอย่างมืออาชีพ
               เพื่อคุณภาพน้ำที่สะอาด ปลอดภัย และเหมาะสมกับทุกการใช้งาน
             </p>
@@ -20,7 +20,7 @@ export default function Footer() {
           {/* ส่วนที่ 2: ลิงก์หน้าเว็บ */}
           <div>
             <h3 className="text-lg font-semibold text-gray-800 mb-2">เมนู</h3>
-            <ul className="space-y-2 text-gray-600 text-sm">
+            <ul className="space-y-2 text-gray-600 text-[10px]">
               <li>
                 <a href="/" className="hover:text-blue-600 transition">
                   หน้าแรก
@@ -63,10 +63,10 @@ export default function Footer() {
 
           {/* ส่วนที่ 3: ช่องทางการติดต่อ */}
           <div>
-            <h3 className="text-md font-semibold text-gray-800 mb-2">
+            <h3 className="text-lg font-semibold text-gray-800 mb-2">
               ติดต่อเรา
             </h3>
-            <ul className="space-y-2 text-gray-600 text-sm">
+            <ul className="space-y-2 text-gray-600 text-[10px]">
               <li>
                 โทรศัพท์:{" "}
                 <a
@@ -109,8 +109,9 @@ export default function Footer() {
         </div>
 
         {/* ลิขสิทธิ์ */}
-        <div className="mt-6 text-center text-gray-500 text-sm">
-          &copy; {new Date().getFullYear()} ร้านเครื่องกรองน้ำ. สงวนลิขสิทธิ์.
+        <div className="mt-6 text-center text-gray-500 text-[9px]">
+          Copyright &copy; {new Date().getFullYear()} ร้านเครื่องกรองน้ำ.
+          สงวนลิขสิทธิ์.
         </div>
       </div>
     </footer>

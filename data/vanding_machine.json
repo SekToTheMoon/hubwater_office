@@ -1,0 +1,83 @@
+[
+  {
+    "id": "h5",
+    "name": "ตู้น้ำ 1200 LPD",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/1200LPD.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Diaphragm Pump 75 gpd",
+    "description1": "220 V.",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/diagram300gpd.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Diaphragm Pump 100 gpd",
+    "description1": "220 V.",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/diagram300gpd.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Diaphragm Pump 150 gpd",
+    "description1": "220 V.",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/Diaphragm Pump 150 gpd.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Diaphragm Pump 300 gpd",
+    "description1": "220 V.",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/diagram300gpd.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Delivery Pump (ปั๊มจ่าย)",
+    "description1": "220 V.",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/delivery pump.webp"
+  },
+  {
+    "id": "h5",
+    "name": "PE TANK 50 - 200 L.",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/PE Tank 50L.webp"
+  },
+
+  {
+    "id": "h5",
+    "name": "ชุดหลอด UV 6 - 36 Watt",
+    "description1": "220 V.",
+    "description2": "30 W.",
+    "description3": "",
+    "image": "/images/vending_machine/ชุดหลอด uv 30w.webp"
+  },
+  {
+    "id": "h5",
+    "name": "หลอด UV 6 - 36 Watt",
+    "description1": "220 V.",
+    "description2": "6-36 W.",
+    "description3": "",
+    "image": "/images/vending_machine/หลอด UV 36 W.webp"
+  },
+  {
+    "id": "h5",
+    "name": "สาย PE 2 - 3 หุน 100 เมตร",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/vending_machine/สาย PE ขาว 100 เมตร.webp"
+  }
+]

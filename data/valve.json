@@ -1,0 +1,67 @@
+[
+  {
+    "id": "h3",
+    "name": "Manual Valve F56A1",
+    "description1": "สารทุกชนิดยกเว้น เรซิ่น",
+    "description2": "1 นิ้ว",
+    "description3": "-",
+    "image": "/images/valve/Manual Valve F56A1.webp"
+  },
+  {
+    "id": "h4",
+    "name": "Manual Valve F64A1 (เรซิน)",
+    "description1": "สารกรองเรซิ่น",
+    "description2": "1 นิ้ว",
+    "description3": "-",
+    "image": "/images/valve/Manual Valve F64A1.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Manual Valve N56D1",
+    "description1": "สารทุกชนิดยกเว้น เรซิ่น",
+    "description2": "2 นิ้ว",
+    "description3": "-",
+    "image": "/images/valve/Manual Valve N56D1.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Manual Valve N64D1",
+    "description1": "สารกรองเรซิ่น",
+    "description2": "2 นิ้ว",
+    "description3": "-",
+    "image": "/images/valve/Manual Valve N64D1.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Auto Valve F67B1",
+    "description1": "สารทุกชนิดยกเว้น เรซิ่น",
+    "description2": "1 นิ้ว",
+    "description3": "220 V.",
+    "image": "/images/valve/Auto Valve F63B1.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Auto Valve F63B1",
+    "description1": "สารกรองเรซิ่น",
+    "description2": "1 นิ้ว",
+    "description3": "220 V.",
+    "image": "/images/valve/Auto Valve F63B1.webp"
+  },
+
+  {
+    "id": "h5",
+    "name": "Auto Valve N75A1",
+    "description1": "สารทุกชนิดยกเว้น เรซิ่น",
+    "description2": "2 นิ้ว",
+    "description3": "220 V.",
+    "image": "/images/valve/Auto Valve N75A1.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Auto Valve N74A1",
+    "description1": "สารกรองเรซิ่น",
+    "description2": "2 นิ้ว",
+    "description3": "220 V.",
+    "image": "/images/valve/Auto Valve N75A1.webp"
+  }
+]
