@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import { Noto_Sans_Thai } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 
 const Thai = Noto_Sans_Thai({
   weight: "400",
@@ -25,6 +26,7 @@ export default function RootLayout({ children }) {
           <div className=" flex-grow mx-auto px-6 sm:px-12 lg:px-34 py-8 bg-gray-50">
             {children}
           </div>
+          <Analytics />
         </main>
         <Footer />
       </body>
