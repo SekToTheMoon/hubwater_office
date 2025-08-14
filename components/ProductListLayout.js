@@ -8,7 +8,7 @@ const ProductListLayout = ({
   topic3,
 }) => {
   return (
-    <div className=" mt-3 max-w-5xl mx-auto">
+    <div className="mt-3 max-w-5xl mx-auto">
       <div className="flex flex-col sm:flex-row sm:justify-between sm:items-end text-animate-fade-in-up mb-8">
         <div className="text-3xl font-bold text-gray-800  tracking-wider ">
           {tittle}
@@ -17,7 +17,7 @@ const ProductListLayout = ({
           {subtittle}
         </div>
       </div>
-      <div className="grid grid-cols-1 mt-8 lg:grid-cols-2 gap-7  mx-auto">
+      <div className="grid grid-cols-1 mt-8 lg:grid-cols-2 gap-7 mx-auto">
         {Products.map((product, index) => (
           <ProductCard
             key={index}
