@@ -9,22 +9,22 @@ export default function Header() {
   const [animateFadeOut, setAnimateFadeOut] = useState(false);
   const navItems = [
     { name: "หน้าบ้าน", href: "/" },
+    { name: "ติดต่อเรา", href: "/contact" },
     { name: "เคมีภัณฑ์", href: "/products/chemical" },
     { name: "ถังไฟเบอร์", href: "/products/frp" },
     { name: "เครื่อง RO", href: "/products/ro" },
     { name: "ไส้กรองน้ำ", href: "/products/filter" },
     { name: "ไส้เมมเบรน", href: "/products/membrane" },
-    { name: "อุปกรณ์อื่นๆ", href: "/products/other" },
     { name: "อุปกรณ์ตู้น้ำ", href: "/products/vending_machine" },
+    { name: "อุปกรณ์อื่นๆ", href: "/products/other" },
     { name: "ปั๊มน้ำแรงดัน", href: "/products/pump" },
-    { name: "เครื่องกรองน้ำ", href: "/products/water_filter" },
     { name: "สารกรองเรซิ่น", href: "/products/resin" },
-    { name: "วาล์วถังไฟเบอร์", href: "/products/valve" },
+    { name: "เครื่องกรองน้ำ", href: "/products/water_filter" },
     { name: "กระบอกเฮ้าส์ซิ่ง", href: "/products/housing" },
+    { name: "วาล์วถังไฟเบอร์", href: "/products/valve" },
     { name: "สารกรองคาร์บอน", href: "/products/carbon" },
     { name: "สารกรองแมงกานีส", href: "/products/manganese" },
     { name: "สารกรองแอนทราไซต์", href: "/products/antracite" },
-    { name: "ติดต่อเรา", href: "/contact" },
   ];
   const navFullItems = [
     { name: "หน้าบ้าน", href: "/" },
