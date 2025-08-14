@@ -21,7 +21,7 @@ export default function ProductCard({
         />
       </div>
       <div className="w-6/10 lg:w-5/10 flex flex-col items-center justify-center  gap-4 ">
-        <h3 className="font-semibold text-xs text-pretty">{name}</h3>
+        <h3 className="font-semibold text-xs text-black text-pretty">{name}</h3>
         <div className="text-gray-800 text-[11px] text-pretty w-full flex items-center gap-2">
           <div className="text-right w-2/4">{topic1}</div>
           <div className="text-center w-full">{description1}</div>
