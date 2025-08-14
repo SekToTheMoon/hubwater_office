@@ -137,7 +137,7 @@ export default function Header() {
                     <button className="text-gray-800 hover:text-blue-600 flex items-center">
                       {item.name}
                     </button>
-                    <div className="hidden group-hover:block absolute left-0 h-full w-full z-10 shadow-2xl">
+                    <div className="hidden group-hover:block absolute left-0 h-full w-full z-10 shadow-2xl animate-fade-in-down-50">
                       <ul className="flex w-full items-center justify-center gap-4 bg-gray-50 py-6 ">
                         {item.list.map((subItem) => (
                           <div className="w-15" key={subItem.name}>
