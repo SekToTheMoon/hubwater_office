@@ -1,0 +1,33 @@
+{
+  "name": "hubwater_office",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^7.1.0",
+    "@fortawesome/free-brands-svg-icons": "^7.1.0",
+    "@fortawesome/free-regular-svg-icons": "^7.1.0",
+    "@fortawesome/free-solid-svg-icons": "^7.1.0",
+    "@fortawesome/react-fontawesome": "^3.1.0",
+    "@vercel/analytics": "^1.5.0",
+    "emailjs-com": "^3.2.0",
+    "flowbite-react": "^0.12.5",
+    "leaflet": "^1.9.4",
+    "leaflet-defaulticon-compatibility": "^0.1.2",
+    "next": "15.2.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-leaflet": "^5.0.0",
+    "sweetalert2": "^11.17.2",
+    "swiper": "^11.2.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "tailwindcss": "^4"
+  }
+}

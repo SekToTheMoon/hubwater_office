@@ -1,0 +1,96 @@
+[
+  {
+    "id": "h5",
+    "name": "Extrepure Resin NA+",
+    "description1": "น้ำใช้ทั่วไป",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+    "image": "/images/resin/extrapure Na.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Extrepure Resin C100",
+    "description1": "น้ำใช้ - ดื่ม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+    "image": "/images/resin/extrapure c100e.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Extrepure Resin 001x7FG",
+    "description1": "น้ำดื่ม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+    "image": "/images/resin/Extrepure Resin Food Grade.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Resin EZYTEC 001x4FG",
+    "description1": "น้ำดื่ม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+
+    "image": "/images/resin/Resin EZYTEC Food Grade.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Resin Jacobi KW-8",
+    "description1": "น้ำดื่ม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+
+    "image": "/images/resin/Resin Jacobi Food Grade.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Resin Purify",
+    "description1": "น้ำดื่ม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+
+    "image": "/images/resin/Resin Purify.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Resin minova 25 Lite",
+
+    "description1": "น้ำใช้ - ดื่ม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+    "image": "/images/resin/Resin minova 25 Lite.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Resin HYDROSORB HS-004",
+    "description1": "นำ้ใช้",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+
+    "image": "/images/resin/Resin HYDROSORB 25 Lite.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Resin Winsorb WIN07",
+    "description1": "น้ำใช้",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+
+    "image": "/images/resin/Resin Winsorb 25 Lite.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Dopont HCESSN NA (Italy)",
+    "description1": "น้ำใช้ อุตสาหกรรม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+    "image": "/images/resin/Resin Dopont HCESSN NA (Italy).webp"
+  },
+  {
+    "id": "h5",
+    "name": "Dopont AmberLite™ IRC100 Na",
+    "description1": "น้ำดื่ม",
+    "description2": "Na+",
+    "description3": "25 ลิตร",
+    "image": "/images/resin/Resin Dopont HCESSN NA (Italy).webp"
+  }
+]

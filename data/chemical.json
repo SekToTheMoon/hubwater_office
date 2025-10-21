@@ -1,0 +1,34 @@
+[
+  {
+    "id": "h4",
+    "name": "น้ำยาแอนตี้สเกล RO Anti-scalant",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/chemical/anticale.webp"
+  },
+  {
+    "id": "h4",
+    "name": "น้ำยาล้างไส้ RO",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/chemical/ล้างRO.webp"
+  },
+  {
+    "id": "h4",
+    "name": "น้ำยาปรับค่า PH กรด-ด่าง",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/chemical/PH.webp"
+  },
+  {
+    "id": "h4",
+    "name": "คลอรีน น้ำ-ผง 10-70%",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/chemical/คลอลีน.webp"
+  }
+]

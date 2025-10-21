@@ -1,0 +1,34 @@
+[
+  {
+    "id": "h5",
+    "name": "Anthracite Ecotech",
+    "description1": "standard",
+    "description2": "80% min",
+    "description3": "40 ลิตร",
+    "image": "/images/antracite/Anthracite Ecotech 40 L.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Anthracite So Klear",
+    "description1": "standard",
+    "description2": "82% min",
+    "description3": "40 ลิตร",
+    "image": "/images/antracite/Anthracite So Klear 40 L.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Anthracite So Klear Plus A+",
+    "description1": "A+",
+    "description2": "89% min",
+    "description3": "40 ลิตร",
+    "image": "/images/antracite/Anthracite So Klear Plu.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Anthracite Ultra Klear Premium",
+    "description1": "Premium",
+    "description2": "92% min",
+    "description3": "40 ลิตร",
+    "image": "/images/antracite/Anthracite_Ultra_Klear_Premium.webp"
+  }
+]

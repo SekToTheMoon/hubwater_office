@@ -1,0 +1,66 @@
+[
+  {
+    "id": "h5",
+    "name": "Housing น้ำเงินทึบ",
+    "description1": "10-20 นิ้ว",
+    "description2": "ไม่มี",
+    "description3": "พลาสติก",
+    "image": "/images/housing/housing น้ำเงิน10นิ้ว ไม่มีปุ่มไล่ลม.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Housing น้ำเงินทึบ",
+    "description1": "10-20 นิ้ว",
+    "description2": "มี",
+    "description3": "พลาสติก",
+    "image": "/images/housing/housing น้ำเงิน10นิ้ว.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Housing ใส",
+    "description1": "10-20 นิ้ว",
+    "description2": "ไม่มี",
+    "description3": "พลาสติก",
+    "image": "/images/housing/housing ใส10นิ้ว ไม่มีปุ่มไล่ลม.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Housing ขาว",
+    "description1": "10-20 นิ้ว",
+    "description2": "ไม่มี",
+    "description3": "พลาสติก",
+    "image": "/images/housing/housing ขาว10นิ้ว ไม่มีปุ่มไล่ลม.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Housing น้ำเงินทึบ",
+    "description1": "10-20 นิ้ว",
+    "description2": "มี",
+    "description3": "ทองเหลือง",
+    "image": "/images/housing/housing น้ำเงิน10นิ้ว.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Housing BIG BLUE ",
+    "description1": "10-20 นิ้ว",
+    "description2": "มี",
+    "description3": "พลาสติก",
+    "image": "/images/housing/Housing BIG BLUE '20'.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Housing BIG BLUE ",
+    "description1": "10-20 นิ้ว",
+    "description2": "มี",
+    "description3": "ทองเหลือง",
+    "image": "/images/housing/Housing BIG BLUE '20'.webp"
+  },
+  {
+    "id": "h5",
+    "name": "กระบอก Membrane",
+    "description1": "",
+    "description2": "",
+    "description3": "",
+    "image": "/images/housing/กระบอก membrane.webp"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "h5",
+    "name": "Activated Carbon Aqua Plus",
+    "description1": "600",
+    "description2": "8x30",
+    "description3": "ไม้",
+    "image": "/images/carbon/Activated Carbon Aqua Plus ID 600.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon Premium",
+    "description1": "900 / 1,000",
+    "description2": "8x30 / 8x16",
+    "description3": "ถ่านหิน",
+    "image": "/images/carbon/Activated Carbon Premium.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon COKE",
+    "description1": "1,000",
+    "description2": "8x16",
+    "description3": "ถ่านหิน",
+    "image": "/images/carbon/Activated Carbon COKE.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon Biosis",
+    "description1": "1,000",
+    "description2": "8x30",
+    "description3": "ถ่านหิน",
+    "image": "/images/carbon/Activated Carbon Biosis ID 1000.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon Biosis Halal",
+    "description1": "1,000",
+    "description2": "8x30",
+    "description3": "ถ่านหิน",
+    "image": "/images/carbon/biosis_halal.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon Ecotech",
+    "description1": "1,000",
+    "description2": "8x30 / 8x16",
+    "description3": "กะลามะพร้าว",
+    "image": "/images/carbon/Activated Carbon Ecotech ID 1000.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon Unicarb",
+    "description1": "750",
+    "description2": "8x30 / 8x16",
+    "description3": "กะลามะพร้าว",
+    "image": "/images/carbon/Activated Carbon Unicarb.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon COCO X",
+    "description1": "750",
+    "description2": "8x30 / 8x16",
+    "description3": "กะลามะพร้าว",
+    "image": "/images/carbon/Activated Carbon COCO X.webp"
+  },
+  {
+    "id": "h6",
+    "name": "Activated Carbon COCO X",
+    "description1": "1050",
+    "description2": "8x30 / 8x16",
+    "description3": "กะลามะพร้าว",
+    "image": "/images/carbon/Activated Carbon COCO X ID 1050.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon Biocat",
+    "description1": "600 / 1,000",
+    "description2": "8x30 / 8x16",
+    "description3": "กะลามะพร้าว",
+    "image": "/images/carbon/Biocat bc ID600.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Activated Carbon Thai aqua",
+    "description1": "1,000",
+    "description2": "8x16",
+    "description3": "ถ่านหิน",
+    "image": "/images/carbon/Activated Carbon Thai aqua.webp"
+  }
+]

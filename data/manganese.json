@@ -1,0 +1,42 @@
+[
+  {
+    "id": "h3",
+    "name": "Manganese Sand STN 25L",
+    "description1": "ทราย",
+    "description2": "1.0 - 1.8 mm.",
+    "description3": "25 ลิตร",
+    "image": "/images/manganese/Manganese Sand STN 25L.webp"
+  },
+  {
+    "id": "h4",
+    "name": "Manganese Zeolite STN 25L",
+    "description1": "ซีโอไลต์",
+    "description2": "0.7 - 3.0 mm.",
+    "description3": "25 ลิตร",
+    "image": "/images/manganese/Manganese Zeolite STN 25L.webp"
+  },
+  {
+    "id": "h1",
+    "name": "Manganese Sand METRA 25L",
+    "description1": "ทราย",
+    "description2": "0.8 - 1.0 mm.",
+    "description3": "25 ลิตร",
+    "image": "/images/manganese/Manganese Sand METRA 25L.webp"
+  },
+  {
+    "id": "h2",
+    "name": "Manganese Zeolite METRA 25L",
+    "description1": "ซีโอไลต์",
+    "description2": "0.8 - 2.5 mm.",
+    "description3": "25 ลิตร",
+    "image": "/images/manganese/Manganese Zeolite METRA 25L.webp"
+  },
+  {
+    "id": "h5",
+    "name": "Manganese Zeolite Ecotech 25L (หมด)",
+    "description1": "ทราย",
+    "description2": "8x30 / 8x16",
+    "description3": "25 ลิตร",
+    "image": "/images/manganese/Manganese Zeolite Ecotech.webp"
+  }
+]
