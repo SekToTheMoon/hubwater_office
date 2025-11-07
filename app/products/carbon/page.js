@@ -20,8 +20,8 @@ export default function Page() {
         subtittle="เรารวมไว้ที่นี่สำหรับคุณ"
         Products={Products}
         topic1="Iodine"
-        topic2="วัสถุดิบ"
-        topic3="ขนาดเม็ด"
+        topic2="ขนาดเม็ด"
+        topic3="วัสถุดิบ"
       />
     </>
   );

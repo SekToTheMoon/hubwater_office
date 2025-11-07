@@ -79,11 +79,11 @@
   },
   {
     "id": "h5",
-    "name": "Dopont HCESSN NA (Italy)",
-    "description1": "น้ำใช้ อุตสาหกรรม",
+    "name": "Dopont HCESSN NA ",
+    "description1": "น้ำดื่ม",
     "description2": "Na+",
     "description3": "25 ลิตร",
-    "image": "/images/resin/Resin Dopont HCESSN NA (Italy).webp"
+    "image": "/images/resin/Resin Dopont HCESSN NA (Italy) .png"
   },
   {
     "id": "h5",
@@ -91,6 +91,6 @@
     "description1": "น้ำดื่ม",
     "description2": "Na+",
     "description3": "25 ลิตร",
-    "image": "/images/resin/Resin Dopont HCESSN NA (Italy).webp"
+    "image": "/images/resin/Resin Dopont icr 100.png"
   }
 ]
